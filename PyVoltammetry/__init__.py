@@ -1,2 +1,2 @@
-__version__ = "1.0"
+__version__ = "0.01"
 __all__ = ['analyse', 'visualisation']
